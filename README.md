@@ -1,16 +1,33 @@
 # k0rdent
 
-### k0rdent is an open source, Kubernetes-based AIOps platform for platform engineers.
+### Deploy and manage Kubernetes at scale
 
 
 
 ##### Visit "https://k0rdent.github.io/docs/" for the full documentation
 
-k0rdent is an open-source, Kubernetes-based AIOps platform tailored for platform engineers. It unifies all AIOps infrastructure and services at scale in a Kubernetes-native manner, delivering agility and flexibility for AI workload requirements while reducing costs, complexity, and operational toil. With its composable architecture, k0rdent is easy to customize and streamlines infrastructure and service maintenance through declarative automation and production-ready templates optimized for AI workloads.
+k0rdent is dedicated to establishing a standardized and efficient approach to deploying and managing Kubernetes clusters at scale. It functions as a "super control plane," orchestrating and managing multiple Kubernetes control planes seamlessly. Alternatively, k0rdent can be viewed as a powerful open-source platform tailored for Platform Engineering, offering tools to streamline workflows and enhance operational efficiency.
 
-k0rdent focuses on providing a consistent and scalable approach to deploying and managing Kubernetes clusters. Think of k0rdent as a "super control plane" designed to manage other Kubernetes control planes, or as a platform engineered for Platform Engineering. Whether you're building an internal developer platform (IDP), managing Kubernetes clusters at scale, creating Golden Paths, or centralizing operations, k0rdent is a powerful tool to achieve these goals.
+If you are building an Internal Developer Platform (IDP), require centralized management of Kubernetes clusters, or wish to create Golden Paths for consistent development practices, k0rdent is an ideal solution. It simplifies complex operations, enabling platform engineers to focus on delivering value.
 
-Whether managing Kubernetes clusters on-premises, in the cloud, or across hybrid environments, k0rdent ensures a consistent and secure approach. With full lifecycle management—including provisioning, configuration, and maintenance—k0rdent provides a repeatable, centralized, and secure way to manage Kubernetes clusters effectively.
+Whether managing Kubernetes clusters on-premises, in the cloud, or across hybrid environments, k0rdent ensures consistency and reliability. With comprehensive lifecycle management capabilities—including provisioning, configuration, and maintenance—k0rdent provides a repeatable, secure, and centralized method to oversee Kubernetes clusters effectively.
+
+#### k0rdent Components
+The main components of k0rdent include:
+
+- **k0rdent Cluster Manager (kcm)**
+
+Deployment and life-cycle management of Kubernetes clusters, including configuration, updates, and other CRUD operations.
+
+- **k0rdent State Manager (ksm)**
+
+Installation and life-cycle management of beach-head services, policy, Kubernetes API configurations and more.
+
+- **k0rdent Observability and FinOps (kof)**
+
+Cluster and beach-head services monitoring, events and log management.
+
+
 
 ## Contributing
 
@@ -22,6 +39,8 @@ To learn about k0rdent governance, see our [community governance document](commu
 
 ## Project Resources
 * [k0rdent Community Details](https://github.com/k0rdent/community)
+* Join the [#k0rdent](https://cloud-native.slack.com/archives/C08A63Q4NCD) community slack channel on the [CNCF](https://slack.cncf.io) Slack space.
 * k0rdent GitHub:  https://github.com/k0rdent
 * k0rdent docs: https://k0rdent.github.io/docs/
+  
 
