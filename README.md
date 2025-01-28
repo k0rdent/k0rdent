@@ -48,7 +48,7 @@ To learn about how to contribute to k0rdent, see our [contributing documentation
 
 k0rdent contributors must follow the [k0rdent Code of Conduct](https://github.com/k0rdent/community/blob/main/CODE_OF_CONDUCT.md).
 
-To learn about k0rdent governance, see our [community governance document](community/GOVERNANCE.md).
+To learn about k0rdent governance, see our [community governance document](https://github.com/k0rdent/community/blob/main/GOVERNANCE.md).
 
 ## Project Resources
 * [k0rdent Community Details](https://github.com/k0rdent/community)
