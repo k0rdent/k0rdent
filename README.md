@@ -42,5 +42,3 @@ To learn about k0rdent governance, see our [community governance document](commu
 * Join the [#k0rdent](https://cloud-native.slack.com/archives/C08A63Q4NCD) community slack channel on the [CNCF](https://slack.cncf.io) Slack space.
 * k0rdent GitHub:  https://github.com/k0rdent
 * k0rdent docs: https://k0rdent.github.io/docs/
-  
-
