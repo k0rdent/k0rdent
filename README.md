@@ -1,4 +1,11 @@
-# k0rdent
+<h1 align="center" style="border-bottom: none">
+    <a href="https://k0rdent.github.io/docs/" target="_blank"><img alt="k0rdent" img src="/img/k0rdent_logo_white.svg" height="200px"></a><br>
+</h1>
+
+<p align="center">Visit <a href="https://k0rdent.github.io/docs/" target="_blank">k0rdent docs</a> for the full documentation,
+examples and guides.</p>
+
+
 
 [![slack](https://img.shields.io/badge/slack-k0rdent-brightgreen.svg?logo=slack)](https://cloud-native.slack.com/archives/C08A63Q4NCD)  [![X/Twitter][x-badge]][x-link]
 
