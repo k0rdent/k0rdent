@@ -1,6 +1,12 @@
 # k0rdent
 
-### Deploy and manage Kubernetes at scale
+[![slack](https://img.shields.io/badge/slack-k0rdent-brightgreen.svg?logo=slack)](https://cloud-native.slack.com/archives/C08A63Q4NCD)  [![X/Twitter][x-badge]][x-link]
+
+[x-badge]:https://img.shields.io/twitter/follow/k0rdent?logo=x&style=flat
+[x-link]:https://x.com/k0rdent
+
+
+## Deploy and Manage Kubernetes at scale
 
 
 
