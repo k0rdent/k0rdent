@@ -264,7 +264,7 @@ In a production environment, you will always want to ensure that your management
 
 We welcome contributions from the wider community! Read this [guide](https://github.com/k0rdent/k0rdent/blob/main/CONTRIBUTING.md) to get started, and join our thriving community on [Slack](https://cloud-native.slack.com/archives/C08A63Q4NCD).
 
-🌟 [Leave us a star](https://github.com/Giskard-AI/giskard), it helps the project to get discovered by others and keeps us motivated to build awesome open-source tools! 🌟
+🌟 [Leave us a star](https://github.com/k0rdent/k0rdent), it helps the project to get discovered by others and keeps us motivated to build awesome open-source tools! 🌟
 
 <h1 id="contributing">👥 Contributing</h1>
 
