@@ -62,6 +62,10 @@ The k0rdent architecture follows a declarative approach to cluster management us
 
 The Management Cluster can orchestrate the provisioning and lifecycle of multiple child clusters, keeping you from having to directly interact with individual infrastructure providers. This way, you can define your cluster in one cloud environment, such as AWS, then re-use that definition in another cloud, like Azure, largely unchanged.
 
+<p align="center">
+  <img alt="k0rdent architecture" img src="/img/k0rdent_architecture.png" height="450px">
+</p>
+
 The k0rdent architecture comprises the following components:
 - Cluster Management: Tools and controllers for defining, provisioning, and managing clusters.
 - State Management: Controllers and systems for monitoring, updating, and managing the state of child clusters and their workloads.
