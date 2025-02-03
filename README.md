@@ -1,9 +1,9 @@
 <p align="center">
-    <a href="https://k0rdent.github.io/docs/" target="_blank"><img alt="k0rdent" img src="/img/k0rdent_logo_white.svg" height="250px"></a><br>
+    <a href="https://docs.k0rdent.io" target="_blank"><img alt="k0rdent" img src="/img/k0rdent_logo_white.svg" height="250px"></a><br>
 </p>
 
 <h1 align="center" weight='300' >Deploy and Manage Kubernetes at scale</h1>
-<h3 align="center" weight='300' >Visit <a href="https://k0rdent.github.io/docs/" target="_blank">k0rdent docs</a> for the full documentation,
+<h3 align="center" weight='300' >Visit <a href="https://docs.k0rdent.io" target="_blank">k0rdent docs</a> for the full documentation,
 examples and guides.</h3>
 <div align="center">
 
@@ -45,7 +45,7 @@ Cluster and beach-head services monitoring, events and log management.
 
 The QuickStart shows and briefly explains the hows, whys, and wherefores of manually setting up k0rdent for use. Once built and validated, the QuickStart setup can be leveraged to begin an expanding sequence of demos that let you explore k0rdent's many features.
 
-Get started with k0rdent in just a few steps by referring to the [Quickstart Guide](https://k0rdent.github.io/newdocs/v0.0.51/guide-to-quickstarts/)
+Get started with k0rdent in just a few steps by referring to the [Quickstart Guide](https://docs.k0rdent.io/latest/guide-to-quickstarts/)
 
 The process of installing k0rdent is straightforward, and involves the following steps:
 
@@ -53,7 +53,7 @@ The process of installing k0rdent is straightforward, and involves the following
 - Install k0rdent into the management cluster
 - Add the necessary credentials and templates to work with the providers in your infrastructure.
 
-Here is the full [Administrator's Guide To Install k0rdent](https://k0rdent.github.io/newdocs/v0.0.51/admin-installation/).
+Here is the full [Administrator's Guide To Install k0rdent](https://docs.k0rdent.io/latest/admin-installation/).
 
   
 <h1 id="architecture">📐 Architecture</h1>
