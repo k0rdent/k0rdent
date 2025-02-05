@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://docs.k0rdent.io" target="_blank"><img alt="k0rdent" img src="/img/k0rdent_logo_white.svg" height="250px"></a><br>
+    <a href="https://docs.k0rdent.io" target="_blank"><img alt="k0rdent" img src="/img/k0rdent-logo.svg" height="250px"></a><br>
 </p>
 
 <h1 align="center" weight='300' >Deploy and Manage Kubernetes at scale</h1>
