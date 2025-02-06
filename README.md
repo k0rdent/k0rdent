@@ -1,14 +1,5 @@
-<div align="center">
-  <h1 style="
-      font-size: 100px;
-      font-weight: bold;
-      font-family: sans-serif;
-      color: var(--color-fg-default);
-      margin: 0;
-  ">
-    k0RDENT
-  </h1>
-</div>
+![Light/Dark Mode Image](https://github.com/k0rdent/k0rdent/img/k0rdent-logo-horizontal-inverted-dark-mode.png#gh-dark-mode-only)
+![Light/Dark Mode Image](https://github.com/k0rdent/k0rdent/img/k0rdent-logo-horizontal-light-mode.png#gh-light-mode-only)
 
 <h1 align="center" weight='300' >Deploy and Manage Kubernetes at scale</h1>
 <h3 align="center" weight='300' >Visit <a href="https://docs.k0rdent.io" target="_blank">k0rdent docs</a> for the full documentation,
