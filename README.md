@@ -1,6 +1,7 @@
 <div align="center">
   <h1 style="
-      font-size: 70px;
+      font-size: 100px;
+      font-weight: bold;
       font-family: sans-serif;
       color: var(--color-fg-default);
       margin: 0;
