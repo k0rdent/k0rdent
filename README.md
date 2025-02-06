@@ -1,6 +1,13 @@
-<p align="center">
-    <a href="https://docs.k0rdent.io" target="_blank"><img alt="k0rdent" img src="/img/k0rdent-logo.svg" height="250px"></a><br>
-</p>
+<div align="center">
+  <h1 style="
+      font-size: 70px;
+      font-family: sans-serif;
+      color: var(--color-fg-default);
+      margin: 0;
+  ">
+    k0RDENT
+  </h1>
+</div>
 
 <h1 align="center" weight='300' >Deploy and Manage Kubernetes at scale</h1>
 <h3 align="center" weight='300' >Visit <a href="https://docs.k0rdent.io" target="_blank">k0rdent docs</a> for the full documentation,
