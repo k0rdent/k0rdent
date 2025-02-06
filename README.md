@@ -1,5 +1,8 @@
-![Light/Dark Mode Image](https://github.com/k0rdent/k0rdent/img/k0rdent-logo-horizontal-inverted-dark-mode.png#gh-dark-mode-only)
-![Light/Dark Mode Image](https://github.com/k0rdent/k0rdent/img/k0rdent-logo-horizontal-light-mode.png#gh-light-mode-only)
+<p align="center">
+  <img src="img/k0rdent-logo-horizontal-inverted-dark-mode.png#gh-dark-mode-only" width="400">
+  <img src="img/k0rdent-logo-horizontal-light-mode.png#gh-light-mode-only" width="400">
+</p>
+
 
 <h1 align="center" weight='300' >Deploy and Manage Kubernetes at scale</h1>
 <h3 align="center" weight='300' >Visit <a href="https://docs.k0rdent.io" target="_blank">k0rdent docs</a> for the full documentation,
