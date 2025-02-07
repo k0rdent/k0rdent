@@ -30,15 +30,18 @@ Whether managing Kubernetes clusters on-premises, in the cloud, or across hybrid
 #### k0rdent Components
 The main components of k0rdent include:
 
-- **k0rdent Cluster Manager (kcm)**
+- [**k0rdent Cluster Manager (kcm)**](https://github.com/k0rdent/kcm)
 
 Deployment and life-cycle management of Kubernetes clusters, including configuration, updates, and other CRUD operations.
 
 - **k0rdent State Manager (ksm)**
 
-Installation and life-cycle management of beach-head services, policy, Kubernetes API configurations and more.
+Installation and life-cycle management of [beach-head services](https://docs.k0rdent.io/v0.1.0/glossary/#beach-head-services), policy, Kubernetes API configurations and more.
 
-- **k0rdent Observability and FinOps (kof)**
+This is currently rolled into [k0rdent cluster manager](https://github.com/k0rdent/kcm), but may be split out in the future
+ksm leverages [Project Sveltos](https://github.com/projectsveltos/sveltos) for an increasing amount of functionality
+
+- [**k0rdent Observability and FinOps (kof)**](https://github.com/k0rdent/kof)
 
 Cluster and beach-head services monitoring, events and log management.
 
