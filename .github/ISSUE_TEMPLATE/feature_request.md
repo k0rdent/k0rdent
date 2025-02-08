@@ -1,18 +1,22 @@
 ---
-name: "\U0001F6F8 Feature request"
-about: Suggest an idea that will improve the project
+name: Enhancement Request
+about: Suggest an idea for this project
 title: ''
-labels: ''
-assignees: ''
-
+labels: enhancement
 ---
 
-<!--
-  Thanks for filing an issue! Before hitting the button, please answer these questions.
+### Problem Statement
+A clear and concise description of the problem or user need.
 
-  Describe *in detail* the feature/behavior/change you'd like to see.
+### Proposed Solution
+Describe the feature or functionality in detail.
 
-  Be ready for followup questions, and please respond in a timely
-  manner. If we think a feature already exists, we might close your issue.
-  If we're wrong, PLEASE feel free to reopen it and explain why.
--->
+### Alternatives Considered
+Explain any alternative solutions or features you've thought about.
+
+### Use Cases
+Provide examples of how this feature will be used and by whom.
+
+### Additional Context
+Include any relevant links, screenshots, or documentation references.
+Implement the above changes in both repositories (k0rdent and k0rdent/2a-internal) along with checking the template is correctly set up and applies when creating an enhancement issue.
