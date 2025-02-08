@@ -22,6 +22,25 @@ Use your judgement about what constitutes a large change. If you aren't sure, se
 
 Please read and abide by the [k0rdent Community Code of Conduct](https://github.com/k0rdent/community/blob/main/CODE_OF_CONDUCT.md)
 
+## Submitting Feature Requests
+
+We welcome suggestions to improve the k0rdent project. To ensure a smooth and collaborative process, please follow these steps:
+
+1. **Initiate a Discussion**
+
+   - **Purpose:** Before formalizing a feature request, engage with the community to refine your idea.
+   - **Action:** Navigate to the [Discussions](#) tab and start a new topic under the 'Feature Requests' category.
+   - **Benefit:** Gather feedback, explore alternatives, and assess interest, increasing the likelihood of acceptance.
+
+2. **Submit a Formal Feature Request**
+
+   - **Prerequisite:** After a fruitful discussion and community support.
+   - **Action:** Open a new issue in the [Issues](#) section.
+   - **Template:** Select the 'Feature Request' template to provide structured information.
+   - **Label:** Apply the `enhancement` label to your issue.
+
+**Note:** Engaging in discussions first fosters collaboration and increases the chances of your feature being integrated.
+
 ## General workflow
 
 Identify which part of k0rdent interests you for contributing before starting your contribution journey. Users are requested to raise GitHub issues specific to the repositories you are contributing to.
