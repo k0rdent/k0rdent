@@ -68,7 +68,7 @@ The k0rdent architecture follows a declarative approach to cluster management us
 The Management Cluster can orchestrate the provisioning and lifecycle of multiple child clusters, keeping you from having to directly interact with individual infrastructure providers. This way, you can define your cluster in one cloud environment, such as AWS, then re-use that definition in another cloud, like Azure, largely unchanged.
 
 <p align="center">
-  <img alt="k0rdent architecture" img src="/img/k0rdent_architecture.png" height="450px">
+  <img alt="k0rdent architecture" img src="/img/k0rdent-highlevel-architecure-overview (1).svg" height="450px">
 </p>
 
 The k0rdent architecture comprises the following components:
@@ -85,6 +85,13 @@ The k0rdent architecture comprises the following components:
 We welcome contributions from the wider community! Read this [guide](https://github.com/k0rdent/k0rdent/blob/main/CONTRIBUTING.md) to get started, and join our thriving community on [Slack](https://cloud-native.slack.com/archives/C08A63Q4NCD).
 
 🌟 [Leave us a star](https://github.com/k0rdent/k0rdent), it helps the project to get discovered by others and keeps us motivated to build awesome open-source tools! 🌟
+
+<h1 id="blogs">📰 Blogs</h1>
+
+- [Announcing k0rdent: A New Era of Kubernetes-Native Distributed Container Management](https://www.mirantis.com/blog/announcing-k0rdent-a-new-era-of-kubernetes-native-distributed-container-management/)
+- [k0rdent Project Helps Platform Engineers Deliver Modern Distributed Workloads with Dapr](https://www.diagrid.io/blog/k0rdent-project-helps-platform-engineers-deliver-modern-distributed-workloads-with-dapr)
+- [Introducing k0rdent: Design, Deploy, and Manage Kubernetes-based IDPs](https://www.cncf.io/blog/2025/02/24/introducing-k0rdent-design-deploy-and-manage-kubernetes-based-idps/)
+- [Mirantis Tackles Container Sprawl With Open Source k0rdent](https://thenewstack.io/mirantis-tackles-container-sprawl-with-open-source-k0rdent/)
 
 <h1 id="contributing">👥 Contributing</h1>
 
