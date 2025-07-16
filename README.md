@@ -98,6 +98,7 @@ We welcome contributions from the wider community! Read this [guide](https://git
 - [k0rdent Project Helps Platform Engineers Deliver Modern Distributed Workloads with Dapr](https://www.diagrid.io/blog/k0rdent-project-helps-platform-engineers-deliver-modern-distributed-workloads-with-dapr)
 - [Introducing k0rdent: Design, Deploy, and Manage Kubernetes-based IDPs](https://www.cncf.io/blog/2025/02/24/introducing-k0rdent-design-deploy-and-manage-kubernetes-based-idps/)
 - [Mirantis Tackles Container Sprawl With Open Source k0rdent](https://thenewstack.io/mirantis-tackles-container-sprawl-with-open-source-k0rdent/)
+- [Introducing k0rdent v0.3.0: Smarter observability, smoother operations](https://www.cncf.io/blog/2025/05/14/introducing-k0rdent-v0-3-0-smarter-observability-smoother-operations/)
 
 <h1 id="contributing">👥 Contributing</h1>
 
