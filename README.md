@@ -10,15 +10,18 @@ examples and guides.</h3>
 <div align="center">
 
 
-
-<a href="https://github.com/k0rdent/kcm/releases">
-      <img src="https://img.shields.io/github/v/release/k0rdent/kcm?style=flat&label=Latest%20version" alt="Release">
-  </a>
   
 [![slack](https://img.shields.io/badge/slack-k0rdent-brightgreen.svg?logo=slack)](https://cloud-native.slack.com/archives/C08A63Q4NCD) [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/k0rdent/k0rdent/blob/main/LICENSE) [![X/Twitter][x-badge]][x-link] 
 <a href="https://github.com/k0rdent/k0rdent">
       <img src="https://img.shields.io/github/stars/k0rdent/k0rdent?style=flat&logo=github&label=Stars" alt="Stars">
     </a>
+
+<a href="https://github.com/k0rdent/kcm/releases"><img src="https://img.shields.io/github/v/release/k0rdent/kcm?style=flat&label=Latest%20version" alt="Release">
+ </a>
+<a href="https://deepwiki.com/k0rdent/k0rdent"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
+<a href='https://codespaces.new/k0rdent/kcm'>
+      <img src='https://github.com/codespaces/badge.svg' alt='Open in Github Codespaces' style='max-width: 100%;' height="20">
+</a>
 
 
 
