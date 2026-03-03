@@ -1,0 +1,62 @@
+name: Triage labels
+
+on:
+  issues:
+    types: [opened, transferred, closed, reopened, labeled, unlabeled]
+
+jobs:
+  labeler:
+    permissions:
+      contents: read
+      issues: write
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add needs-triage if not triage-ok
+        uses: actions/github-script@v7
+        if: ${{ github.event.issue.state == 'open' && !contains(github.event.issue.labels.*.name, 'triage-ok') }}
+        with:
+          retries: 3
+          script: |
+            github.rest.issues.addLabels({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: ['needs-triage']
+            })
+      - name: Remove needs-triage if triage-ok
+        uses: actions/github-script@v7
+        if: ${{ github.event.issue.state == 'open' && contains(github.event.issue.labels.*.name, 'triage-ok') && contains(github.event.issue.labels.*.name, 'needs-triage') }}
+        with:
+          retries: 3
+          script: |
+            github.rest.issues.removeLabel({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              name: 'needs-triage'
+            })
+      - name: Remove needs-triage if closed
+        uses: actions/github-script@v7
+        if: ${{ github.event.issue.state == 'closed' && contains(github.event.issue.labels.*.name, 'needs-triage') }}
+        with:
+          retries: 3
+          script: |
+            github.rest.issues.removeLabel({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              name: 'needs-triage'
+            })
+      - name: Remove triage-ok if closed
+        uses: actions/github-script@v7
+        if: ${{ github.event.issue.state == 'closed' && contains(github.event.issue.labels.*.name, 'triage-ok') }}
+        with:
+          retries: 3
+          script: |
+            github.rest.issues.removeLabel({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              name: 'triage-ok'
+            })
