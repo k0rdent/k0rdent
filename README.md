@@ -105,6 +105,8 @@ We welcome contributions from the wider community! Read this [guide](https://git
 
 <h1 id="contributing">👥 Contributing</h1>
 
+k0rdent has a vibrant community and the k0rdent maintainers are always inviting new contributions.
+
 To learn about how to contribute to k0rdent, see our [contributing documentation](https://github.com/k0rdent/k0rdent/blob/main/CONTRIBUTING.md).
 
 k0rdent contributors must follow the [k0rdent Code of Conduct](https://github.com/k0rdent/community/blob/main/CODE_OF_CONDUCT.md).
