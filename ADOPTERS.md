@@ -10,5 +10,6 @@ The list of organizations that have publicly shared the usage of k0rdent:
 | Organization                                                                                                  | Success Story                                                                                                                                                                                                                |
 |:--------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Mirantis](https:/mirantis.com) | Platform Engineering - Metal to Model |  
+| [logsight](https:/logsight.ai) | Orchestrating geo-distributed, heterogeneous GPU clusters to provide sovereign AI infrastructure. Validated case studies across medical, public, and energy industries together with the German Federal Agency for Breakthrough Innovation (SPRIND). |  
 
 
